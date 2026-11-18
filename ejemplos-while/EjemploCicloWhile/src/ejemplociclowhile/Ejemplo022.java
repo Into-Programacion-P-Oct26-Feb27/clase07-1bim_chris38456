@@ -17,7 +17,7 @@ public class Ejemplo022 {
         int limite;
         int contador = 1;
         int sumaPares = 0;
-        int multiplicacionImpares = 1; // Debe iniciar en 1 para multiplicar
+        int multiplicacionImpares = 1; // Debo iniciar en 1 para poder multiplicar
         
         System.out.println("Ingrese el Límite"); 
         limite = entrada.nextInt(); // Ejemplo: 6
